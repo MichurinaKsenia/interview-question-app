@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c5cf192-caf4-413a-9c80-b7a49efc7233" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/MainPureJavaDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DemoPureJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/Object/ObjectsInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/cli/CliCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/cli/CommandLineInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/controller/InterviewQuestionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/dao/InterviewQuestionStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/dao/inmemory/InMemoryInterviewQuestionStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/dto/InterviewQuestionDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/initdata/InitDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/model/InterviewQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/service/MainPureJavaDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/service/mappers/InterviewQuestionMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kseniamich/pjd/service/mappers/InterviewQuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
